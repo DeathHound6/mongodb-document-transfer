@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-document-transfer",
+  "author": "DeathHound6",
+  "version": "1.0.0",
+  "description": "A javascript script used to transfer documents from one db collection to another",
+  "main": "server.js",
+  "dependencies": {
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.15"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/DeathHound6/mongodb-document-transfer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mongodb",
+    "document",
+    "database"
+  ]
+}
