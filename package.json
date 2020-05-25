@@ -5,8 +5,7 @@
   "description": "A javascript script used to transfer documents from one db collection to another",
   "main": "server.js",
   "dependencies": {
-    "mongodb": "^3.5.7",
-    "mongoose": "^5.9.15"
+    "mongodb": "^3.5.7"
   },
   "engines": {
     "node": "12.x"
